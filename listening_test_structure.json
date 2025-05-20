@@ -1,0 +1,318 @@
+{
+  "audio_url": "/static/uploads/audio/ielts_listening_test1.mp3",
+  "transcript": "Section one, you will hear a woman asking a shop assistant about DVD players. You now have thirty seconds to read questions one to four. Hello. I'm interested in buying a DVD player. Can you help me as I don't know very much about them?...",
+  "questions": [
+    {
+      "number": 1,
+      "text": "What is the maximum you want to spend on a DVD player?",
+      "type": "fill_blank",
+      "correct_answer": "£85"
+    },
+    {
+      "number": 2,
+      "text": "How often do you watch DVDs?",
+      "type": "fill_blank",
+      "correct_answer": "THREE A MONTH"
+    },
+    {
+      "number": 3,
+      "text": "What type of films do you enjoy?",
+      "type": "fill_blank",
+      "correct_answer": "THRILLERS"
+    },
+    {
+      "number": 4,
+      "text": "What other DVDs (non-film) do you watch?",
+      "type": "fill_blank",
+      "correct_answer": "COMEDY PROGRAMS"
+    },
+    {
+      "number": 5,
+      "text": "What is included in the after-sales service for the DB 30 player?",
+      "type": "fill_blank",
+      "correct_answer": "PARTS"
+    },
+    {
+      "number": 6,
+      "text": "The XL 643 has an additional feature that allows you to:",
+      "type": "fill_blank",
+      "correct_answer": "RECORD"
+    },
+    {
+      "number": 7,
+      "text": "What is the current price of the XL 643?",
+      "type": "fill_blank",
+      "correct_answer": "£71.99"
+    },
+    {
+      "number": 8,
+      "text": "For the XL 643, labor costs are available:",
+      "type": "fill_blank",
+      "correct_answer": "AT REDUCED COST"
+    },
+    {
+      "number": 9,
+      "text": "The TriX 24 can also be used to play:",
+      "type": "fill_blank",
+      "correct_answer": "CDs"
+    },
+    {
+      "number": 10,
+      "text": "The price of the TriX 24 includes:",
+      "type": "fill_blank",
+      "correct_answer": "INSURANCE"
+    },
+    {
+      "number": 11,
+      "text": "Where did cheese-making originate?",
+      "type": "fill_blank",
+      "correct_answer": "SOUTHWEST ASIA"
+    },
+    {
+      "number": 12,
+      "text": "How many types of early cheeses existed?",
+      "type": "fill_blank",
+      "correct_answer": "TWO"
+    },
+    {
+      "number": 13,
+      "text": "Who were the great pioneers in cheese-making?",
+      "type": "fill_blank",
+      "correct_answer": "THE ROMANS"
+    },
+    {
+      "number": 14,
+      "text": "When did new cheese-making skills begin to spread?",
+      "type": "fill_blank",
+      "correct_answer": "60 BC AND MARCH"
+    },
+    {
+      "number": 15,
+      "text": "In the early stage, people knew cheese tastes were related to:",
+      "type": "fill_blank",
+      "correct_answer": "TEMPERATURE ENVIRONMENT"
+    },
+    {
+      "number": 16,
+      "text": "In the 19th century, knowledge about what increased?",
+      "type": "fill_blank",
+      "correct_answer": "MICROORGANISMS"
+    },
+    {
+      "number": 17,
+      "text": "With increased knowledge, it became possible to:",
+      "type": "fill_blank",
+      "correct_answer": "INDUSTRIALIZE"
+    },
+    {
+      "number": 18,
+      "text": "Where are cheeses now largely made?",
+      "type": "fill_blank",
+      "correct_answer": "FACTORIES"
+    },
+    {
+      "number": 19,
+      "text": "What still plays an essential role in modern cheese production?",
+      "type": "fill_blank",
+      "correct_answer": "HUMAN JUDGMENT"
+    },
+    {
+      "number": 20,
+      "text": "Despite the scale of production, what can still develop alongside technology?",
+      "type": "fill_blank",
+      "correct_answer": "ART"
+    },
+    {
+      "number": 21,
+      "text": "Before giving his presentation, Paul is worried about:",
+      "type": "multiple_choice",
+      "options": [
+        "choosing what information to use",
+        "not remembering what to say",
+        "organizing the projection equipment"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "number": 22,
+      "text": "Paul's friends advise him not to:",
+      "type": "multiple_choice",
+      "options": [
+        "speak about popular periods",
+        "talk at length about art history",
+        "speak too quickly in the presentation"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "number": 23,
+      "text": "Why does Paul like the idea of the timeline?",
+      "type": "multiple_choice",
+      "options": [
+        "It will be visually pleasing",
+        "It will save some time",
+        "It will keep him focused"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "number": 24,
+      "text": "Paul is going to show famous works of art to:",
+      "type": "multiple_choice",
+      "options": [
+        "show people that he has good taste",
+        "make people think about what counts as art",
+        "prove that modern art isn't as good as classic"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "number": 25,
+      "text": "Paul wants his presentation to:",
+      "type": "multiple_choice",
+      "options": [
+        "change personal opinion",
+        "create a big fight",
+        "start an exciting debate"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "number": 26,
+      "text": "What does Isabel say about modern artists?",
+      "type": "multiple_choice",
+      "options": [
+        "They are skillful",
+        "They paint like children",
+        "They have a sense of freedom"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "number": 27,
+      "text": "Where should Paul go to find pictures?",
+      "type": "fill_blank",
+      "correct_answer": "LIBRARY"
+    },
+    {
+      "number": 28,
+      "text": "Who should Paul ask for access to the slide bank?",
+      "type": "fill_blank",
+      "correct_answer": "THE STAFF"
+    },
+    {
+      "number": 29,
+      "text": "If pictures aren't found in the library, what should Paul use?",
+      "type": "fill_blank",
+      "correct_answer": "LIBRARY COMPUTERS"
+    },
+    {
+      "number": 30,
+      "text": "What tool should Paul use to find pictures online?",
+      "type": "fill_blank",
+      "correct_answer": "SEARCH ENGINE"
+    },
+    {
+      "number": 31,
+      "text": "By what percentage have sparrow numbers decreased in Britain?",
+      "type": "fill_blank",
+      "correct_answer": "92%"
+    },
+    {
+      "number": 32,
+      "text": "In what regions have sparrow numbers declined besides Britain and Continental Europe?",
+      "type": "fill_blank",
+      "correct_answer": "NORTH AMERICA"
+    },
+    {
+      "number": 33,
+      "text": "What type of issues affect sparrow numbers at a neighborhood level?",
+      "type": "fill_blank",
+      "correct_answer": "LOCAL"
+    },
+    {
+      "number": 34,
+      "text": "Besides other species, what else hunts sparrows?",
+      "type": "fill_blank",
+      "correct_answer": "DOMESTIC CATS"
+    },
+    {
+      "number": 35,
+      "text": "What do sparrows face competition for, besides food?",
+      "type": "fill_blank",
+      "correct_answer": "NESTING SITES"
+    },
+    {
+      "number": 36,
+      "text": "What prevents sparrows from nesting in modern buildings?",
+      "type": "fill_blank",
+      "correct_answer": "MODERN BUILDING"
+    },
+    {
+      "number": 37,
+      "text": "What are young sparrow nestlings lacking in their diet?",
+      "type": "fill_blank",
+      "correct_answer": "INSECTS"
+    },
+    {
+      "number": 38,
+      "text": "What releases carcinogenic chemicals that affect insect numbers?",
+      "type": "fill_blank",
+      "correct_answer": "CAR EXHAUST"
+    },
+    {
+      "number": 39,
+      "text": "What technological advancement might affect sparrows' central nervous systems?",
+      "type": "fill_blank",
+      "correct_answer": "MOBILE TELEPHONE TOWERS"
+    },
+    {
+      "number": 40,
+      "text": "What skyrocketed in the 1990s alongside mobile phone usage?",
+      "type": "fill_blank",
+      "correct_answer": "UNLEADED PETROL"
+    }
+  ],
+  "answers": {
+    "q1": "£85",
+    "q2": "THREE A MONTH",
+    "q3": "THRILLERS",
+    "q4": "COMEDY PROGRAMS",
+    "q5": "PARTS",
+    "q6": "RECORD",
+    "q7": "£71.99",
+    "q8": "AT REDUCED COST",
+    "q9": "CDs",
+    "q10": "INSURANCE",
+    "q11": "SOUTHWEST ASIA",
+    "q12": "TWO",
+    "q13": "THE ROMANS",
+    "q14": "60 BC AND MARCH",
+    "q15": "TEMPERATURE ENVIRONMENT",
+    "q16": "MICROORGANISMS",
+    "q17": "INDUSTRIALIZE",
+    "q18": "FACTORIES",
+    "q19": "HUMAN JUDGMENT",
+    "q20": "ART",
+    "q21": "A",
+    "q22": "B",
+    "q23": "B",
+    "q24": "B",
+    "q25": "C",
+    "q26": "C",
+    "q27": "LIBRARY",
+    "q28": "THE STAFF",
+    "q29": "LIBRARY COMPUTERS",
+    "q30": "SEARCH ENGINE",
+    "q31": "92%",
+    "q32": "NORTH AMERICA",
+    "q33": "LOCAL",
+    "q34": "DOMESTIC CATS",
+    "q35": "NESTING SITES",
+    "q36": "MODERN BUILDING",
+    "q37": "INSECTS",
+    "q38": "CAR EXHAUST",
+    "q39": "MOBILE TELEPHONE TOWERS",
+    "q40": "UNLEADED PETROL"
+  }
+} 
